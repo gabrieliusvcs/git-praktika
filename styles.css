@@ -5,3 +5,8 @@ body {
 h1 {
 	font-size: 24px;
 }
+
+div {
+	color: cyan;
+	background-color: blue;
+}
